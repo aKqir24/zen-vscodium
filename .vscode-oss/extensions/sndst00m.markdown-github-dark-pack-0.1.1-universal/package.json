@@ -1,0 +1,39 @@
+{
+	"name": "markdown-github-dark-pack",
+	"displayName": "Dark Github Markdown Pack",
+	"description": "Replaces VS Code's Markdown preview with GFM's rendering & dark theme.",
+	"version": "0.1.1",
+	"icon": "logo.png",
+	"publisher": "sndst00m",
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/SNDST00M/markdown-github-dark-pack.git"
+	},
+	"bugs": {
+		"url": "https://github.com/SNDST00M/markdown-github-dark-pack/issues"
+	},
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Other",
+		"Extension Packs"
+	],
+	"keywords": [
+		"gfm",
+		"github",
+		"github markdown",
+		"markdown",
+		"dark"
+	],
+	"extensionPack": [
+		"ozaki.markdown-github-dark",
+		"bierner.markdown-emoji",
+		"bierner.markdown-checkbox",
+		"bierner.markdown-yaml-preamble"
+	],
+	"__metadata": {
+		"installedTimestamp": 1762693339518,
+		"size": 470743
+	}
+}

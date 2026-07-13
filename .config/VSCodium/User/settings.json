@@ -1,0 +1,143 @@
+{
+
+    "git.autofetch": true,
+    "terminal.explorerKind": "external",
+    "workbench.productIconTheme": "material-product-icons",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.copyWithSyntaxHighlighting": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.emptySelectionClipboard": false,
+    "window.newWindowDimensions": "inherit",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.renderSideBySide": false,
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "window.nativeFullScreen": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "on",
+    "editor.guides.indentation": false,
+
+    // Silence the Noise
+    "breadcrumbs.enabled": false,
+    "scm.diffDecorations": "none",
+    "editor.hover.delay": 1500,
+    "editor.hover.enabled": "on",
+    "editor.matchBrackets": "never",
+    "workbench.tips.enabled": false,
+    "editor.colorDecorators": false,
+    "git.decorations.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.lightbulb.enabled": "off",
+    "editor.selectionHighlight": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "problems.decorations.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 30,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.fontSize": 14,
+    "search.useIgnoreFiles": false,
+    "python.terminal.launchArgs": [
+
+    ],
+    "python.experiments.optInto": [],
+    "python.defaultInterpreterPath": "python ",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "-B",
+        "*test*.py",
+    ],
+    "python.terminal.shellIntegration.enabled": true,
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "${input.foreground}",
+            "backgroundColor": "${inputOption.activeBorder}",
+            "strikethrough": false,
+            "underline": false,
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "${tab.inactiveBackground}",
+            "backgroundColor": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "TODO:",
+            "color": "${tab.inactiveBackground}",
+            "backgroundColor": "#ff8000",
+            "strikethrough": false,
+            "underline": false,
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "${input.foreground}",
+            "backgroundColor": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "cSpell.userWords": [
+        "regkey"
+    ],
+    "cSpell.enabledFileTypes": {
+        "python": false
+    },
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "workbench.navigationControl.enabled": false,
+    "workbench.settings.applyToAllProfiles": [
+
+
+
+
+
+
+
+
+
+    ],
+    "workbench.editor.enablePreview": false,
+    "editor.renderWhitespace": "all",
+    "workbench.activityBar.location": "top",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "terminal.integrated.fontFamily": "IntoneMono Nerd Font Mono",
+    "background.enabled": false,
+    "glassit.alpha": 240,
+    "editor.fontFamily": "IntoneMono Nerd Font Mono",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.openRepositoryInParentFolders": "never",
+    "git.suggestSmartCommit": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine" : "zen-browser",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.host": "10.52.132.212",
+    "terminal.external.linuxExec": "alacritty",
+    "workbench.colorTheme": "Matugen Bordered"
+}
