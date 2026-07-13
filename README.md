@@ -6,7 +6,7 @@ It includes the extensions and the `settings.json` config optimized for a zen vs
 
 |   **Workspace**                   |   **Welcome**                   |
 |-----------------------------------|---------------------------------|
-| ![wor](screenshots/workspace.png) | ![wel](screenshots/welcome.png) |
+| <img width="1152" height="864" alt="workspace" src="https://github.com/user-attachments/assets/b1fee379-10e4-4979-ae5d-c99fbdd6c9b0" /> | <img width="1152" height="864" alt="welcome" src="https://github.com/user-attachments/assets/e5d1a31a-9288-412a-b717-39866546f300" /> |
 
 # Installation
 > [!note]
